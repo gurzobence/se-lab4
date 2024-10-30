@@ -1,0 +1,6 @@
+#test for fire all and fire single 
+GT4500,3,0,3,0
+TORPEDO,SINGLE
+TORPEDO,ALL
+TORPEDO,SINGLE
+TORPEDO,ALL

@@ -1,0 +1,1 @@
+Unknown command: 'ASD' # <- asd wasn't recognised as a valid command
