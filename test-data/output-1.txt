@@ -1,0 +1,7 @@
+SUCCESS # <- New ship was created
+SUCCESS # <- fired
+SUCCESS # <- fired
+SUCCESS # <- fired
+SUCCESS # <- fired
+SUCCESS # <- fired
+SUCCESS # <- fired

@@ -1,0 +1,8 @@
+#creates a ship that has 3 torpedoes in each store, the torpedo guns never fail.
+GT4500,3,0,3,0
+TORPEDO,SINGLE #Primary gun was fired
+TORPEDO,SINGLE #Secondary gun was fired
+TORPEDO,SINGLE #Primary gun was fired
+TORPEDO,SINGLE #Secondary gun was fired
+TORPEDO,SINGLE #Primary gun was fired
+TORPEDO,SINGLE #Secondary gun was fired
